@@ -1,4 +1,4 @@
-import re
+
 import sys
 from pyspark import SparkConf, SparkContext
 from pyspark.mllib.feature import HashingTF
